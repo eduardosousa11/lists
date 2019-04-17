@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6192
+#EXTINF:-1,RTP 1 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6190
+#EXTINF:-1,RTP 1 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26396
+#EXTINF:-1,RTP 2
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/34976
+#EXTINF:-1,RTP 2 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6188
+#EXTINF:-1,RTP 2 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26394
+#EXTINF:-1,SIC
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6186
+#EXTINF:-1,SIC HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6185
+#EXTINF:-1,SIC FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/19491
+#EXTINF:-1,TVI
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/42370
+#EXTINF:-1,TVI HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6183
+#EXTINF:-1,TVI FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/45461
+#EXTINF:-1,LOCALVISAO HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/8139
+#EXTINF:-1,RTP AÇORES
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6172
+#EXTINF:-1,RTP AFRICA
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6171
+#EXTINF:-1,RTP MADEIRA
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6170
+#EXTINF:-1,—— INFORMAÇÃO ——
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/15776
+#EXTINF:-1,RTP 3
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6180
+#EXTINF:-1,RTP 3 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26424
+#EXTINF:-1,RTP 3 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28431
+#EXTINF:-1,SIC NOTICIAS
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6182
+#EXTINF:-1,SIC NOTICIAS HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26941
+#EXTINF:-1,SIC NOTICIAS FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28430
+#EXTINF:-1,TVI 24 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/22966
+#EXTINF:-1,TVI 24
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6181
+#EXTINF:-1,CMTV
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6179
+#EXTINF:-1,CMTV HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6178
+#EXTINF:-1,CMTV FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28432
+#EXTINF:-1,CNN
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/8138
+#EXTINF:-1,BBC WORLD NEWS
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/8129
+#EXTINF:-1,BOOMERANG
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/8130
+#EXTINF:-1, NEWS
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/8137
+#EXTINF:-1,DEUTSCHE WELLE
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26364
+#EXTINF:-1,EUROSPORT NEWS
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6084
+#EXTINF:-1,TVE 24 HORAS
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/8128
+#EXTINF:-1,KURIAKOS TV FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/15967
+#EXTINF:-1,—— ENTRETENIMENTO ——
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/15777
+#EXTINF:-1,TVI FICÇAO
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6174
+#EXTINF:-1,SIC MULHER
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26933
+#EXTINF:-1,SIC MULHER HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6175
+#EXTINF:-1,SIC MULHER FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28435
+#EXTINF:-1,SIC RADICAL
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26935
+#EXTINF:-1,SIC RADICAL HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6177
+#EXTINF:-1,SIC RADICAL FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28433
+#EXTINF:-1,CANAL Q
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6164
+#EXTINF:-1,RTP MEMORIA
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6168
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6124
+#EXTINF:-1,TLC HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6123
+#EXTINF:-1,A&E
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6125
+#EXTINF:-1,CBS REALITY
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6163
+#EXTINF:-1,SIC CARAS
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26934
+#EXTINF:-1,SIC CARAS HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6176
+#EXTINF:-1,SIC CARAS FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28434
+#EXTINF:-1,TVI REALITY
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6173
+#EXTINF:-1,TVI REALITY MOSAICO
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/9294
+#EXTINF:-1,TVI REALITY CAM 1
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/7741
+#EXTINF:-1,TVI REALITY CAM 2
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/7740
+#EXTINF:-1,TVI REALITY CAM 3
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/7739
+#EXTINF:-1,TVI REALITY CAM 4
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/7738
+#EXTINF:-1,BLAZE
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/63434
+#EXTINF:-1,BLAZE HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/63435
+#EXTINF:-1,—— DESPORTO ——
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/15778
+#EXTINF:-1,A BOLA TV
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6116
+#EXTINF:-1,A BOLA TV HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/34978
+#EXTINF:-1,A BOLA TV EXTRA
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/34977
+#EXTINF:-1,SPORT•TV 4K UHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/43336
+#EXTINF:-1,SPORT•TV +
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6112
+#EXTINF:-1,SPORT•TV+ HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6113
+#EXTINF:-1,SPORT•TV + FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6115
+#EXTINF:-1,SPORT•TV 1
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6108
+#EXTINF:-1,SPORT•TV 1 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6109
+#EXTINF:-1,SPORT•TV 1 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6111
+#EXTINF:-1,SPORT•TV 2
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6103
+#EXTINF:-1,SPORT•TV 2 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6104
+#EXTINF:-1,SPORT•TV 2 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6107
+#EXTINF:-1,SPORT•TV 3
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6099
+#EXTINF:-1,SPORT•TV 3 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6100
+#EXTINF:-1,SPORT•TV 3 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6102
+#EXTINF:-1,SPORT•TV 4
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6095
+#EXTINF:-1,SPORT•TV 4 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6096
+#EXTINF:-1,SPORT•TV 4 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6098
+#EXTINF:-1,SPORT•TV 5
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6091
+#EXTINF:-1,SPORT•TV 5 HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6092
+#EXTINF:-1,SPORT•TV 5 FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6094
+#EXTINF:-1,BENFICA TV
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6089
+#EXTINF:-1,BENFICA TV HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6088
+#EXTINF:-1,BENFICA TV FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6090
+#EXTINF:-1,SPORTING TV
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/19261
+#EXTINF:-1,SPORTING TV HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28459
+#EXTINF:-1,SPORTING TV FHD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6083
+#EXTINF:-1,PORTO CANAL
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/28437
+#EXTINF:-1,PORTO CANAL HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/6169
+#EXTINF:-1,CHELSEA TV HD
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/26380
+#EXTINF:-1,REAL MADRID TV
+http://lcmniptv.selfip.com:8000/aaaaaaa/bbbbbbb/12093
